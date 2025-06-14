@@ -55,6 +55,5 @@ qr-code-generator/
 ## ✨ Preview
 
 <p align="center">
-  <img src="Screenshot 2025-06-14 070026.png
-" alt="QR App" width="300"/>
+  <img src="Screenshot 2025-06-14 070026.png" alt="QR App"/>
 </p>
