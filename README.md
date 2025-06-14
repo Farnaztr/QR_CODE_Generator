@@ -57,3 +57,9 @@ qr-code-generator/
 <p align="center">
   <img src="Screenshot 2025-06-14 070026.png" alt="QR App"/>
 </p>
+
+---
+
+🖤 Made by Farnaz.
+
+
