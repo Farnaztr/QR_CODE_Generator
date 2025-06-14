@@ -60,6 +60,6 @@ qr-code-generator/
 
 ---
 
-🖤 Made by Farnaz.
+🖤 Made by **Farnaz**🖤 
 
 
