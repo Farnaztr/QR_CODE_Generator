@@ -7,11 +7,11 @@ You can enter a link or any text and get a scannable QR code instantly — and s
 
 ## Features
 
-- ✅ Graphical User Interface (GUI)
-- ✅ Enter link or text
-- ✅ Generate clean QR Code
-- ✅ Preview it immediately
-- ✅ Save as PNG image
+-  Graphical User Interface (GUI)
+-  Enter link or text
+-  Generate clean QR Code
+-  Preview it immediately
+-  Save as PNG image
 
 ---
 
