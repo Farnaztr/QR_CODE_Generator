@@ -5,7 +5,7 @@ You can enter a link or any text and get a scannable QR code instantly — and s
 
 ---
 
-## 🖼️ Features
+## Features
 
 - ✅ Graphical User Interface (GUI)
 - ✅ Enter link or text
@@ -15,7 +15,7 @@ You can enter a link or any text and get a scannable QR code instantly — and s
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Tkinter (GUI)
@@ -24,7 +24,7 @@ You can enter a link or any text and get a scannable QR code instantly — and s
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 🔧 Install required libraries:
 
@@ -32,7 +32,7 @@ You can enter a link or any text and get a scannable QR code instantly — and s
 pip install qrcode[pil] pillow
 ```
 
-### ▶️ Run the app:
+### Run the app:
 
 ```bash
 python QR.py
@@ -40,19 +40,7 @@ python QR.py
 
 ---
 
-## 📂 File Structure
-
-```
-qr-code-generator/
-│
-├── QR.py               # Main application file
-├── README.md           # Project info
-└── screenshot.png      # Optional: screenshot of the app
-```
-
----
-
-## ✨ Preview
+## Preview
 
 <p align="center">
   <img src="Screenshot 2025-06-14 070026.png" alt="QR App"/>
