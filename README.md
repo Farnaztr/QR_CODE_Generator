@@ -37,15 +37,6 @@ pip install qrcode[pil] pillow
 ```bash
 python QR.py
 ```
-
----
-
-## Preview
-
-<p align="center">
-  <img src="Screenshot 2025-06-14 070026.png" alt="QR App"/>
-</p>
-
 ---
 
 🖤 Made by **Farnaz**🖤 
