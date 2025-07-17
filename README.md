@@ -26,7 +26,7 @@ You can enter a link or any text and get a scannable QR code instantly — and s
 
 ##  Getting Started
 
-### 🔧 Install required libraries:
+### Install required libraries:
 
 ```bash
 pip install qrcode[pil] pillow
